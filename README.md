@@ -6,11 +6,12 @@
 ---
 
 ## 👨‍💻 About Me
-- 💼 Jr Software Engineer with hands-on experience in real-world applications  
-- 🔧 Skilled in backend development, REST APIs, and frontend UI  
-- 💳 Worked on Stripe payment integration  
-- ☁️ Experience with AWS EC2, Nginx deployment  
-- 🤖 Currently exploring with AI-powered workflows.
+- 💼 Jr Software Engineer with hands-on experience building real-world applications  
+- 🔧 Proficient in backend development, REST APIs, and frontend UI  
+- 🔄 Worked on ETL pipelines and data transformation processes  
+- 🎓 Developed features for EdTech platforms  
+- ☁️ Experienced in deploying applications using AWS EC2 and Nginx  
+- 🤖 Exploring AI-powered workflows and intelligent system design  
 
 ---
 
